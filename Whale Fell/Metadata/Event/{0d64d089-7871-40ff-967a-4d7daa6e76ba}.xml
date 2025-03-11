@@ -89,8 +89,8 @@
 		<property name="triggerProbabilityEnabled">
 			<value>true</value>
 		</property>
-		<property name="startOffset">
-			<value>21</value>
+		<property name="length">
+			<value>1.5</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{a5e41bb0-363f-4be1-81e7-a5757642c904}</destination>
