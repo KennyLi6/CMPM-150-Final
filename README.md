@@ -23,4 +23,8 @@
 - [ ] - Metal creaking  
 - [ ] - Water flowing  
 - [ ] - Water droplets  
-- [ ] - Player character breathing  
+- [ ] - Player character breathing
+### Music
+- [ ] - Exploration
+- [ ] - Chase
+- [ ] - Final Tank Area
