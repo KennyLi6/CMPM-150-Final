@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{0a2b2889-9f31-4712-b7a4-7232cc58244b}">
+	<object class="AudioFile" id="{f7553e4d-9c43-4020-9d09-db8dcd3f1c7c}">
 		<property name="note">
-			<value>Selfmade in Reaper w/ Soundwave --LEADS-- preset</value>
+			<value>select4.wav by Krokulator -- https://freesound.org/s/658261/ -- License: Creative Commons 0</value>
 		</property>
 		<property name="assetPath">
-			<value>SFX/INVALID ACTION 1.wav</value>
+			<value>SFX/658261__krokulator__select4.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.5</value>
+			<value>0.7397083333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{13522608-d3bf-453f-81ae-0505278a6f1f}</destination>
