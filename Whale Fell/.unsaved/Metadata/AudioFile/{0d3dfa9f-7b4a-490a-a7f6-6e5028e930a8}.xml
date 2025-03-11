@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0d3dfa9f-7b4a-490a-a7f6-6e5028e930a8}">
+		<property name="note">
+			<value>camera click_NIKON.wav by Snapper4298 -- https://freesound.org/s/178186/ -- License: Attribution 4.0</value>
+		</property>
+		<property name="assetPath">
+			<value>SFX/178186__snapper4298__camera-click_nikon.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51213151927437639</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13522608-d3bf-453f-81ae-0505278a6f1f}</destination>
+		</relationship>
+	</object>
+</objects>

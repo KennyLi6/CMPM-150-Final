@@ -9,7 +9,7 @@
 ### World Sound Effects
 - [ ] - Opening map  
 - [ ] - Pulling out camera  
-- [ ] - Camera shutter  
+- [x] - Camera shutter  
 - [ ] - Drawing in notebook  
 - [ ] - Character footsteps  
 - [ ] - Creature breathing  
