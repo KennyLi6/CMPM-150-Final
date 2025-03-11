@@ -20,7 +20,7 @@
 - [ ] - Creature starts chase  
 - [ ] - Taking damage (game over)  
 ### Background Sounds
-- [ ] - Metal creaking  
+- [x] - Metal creaking  
 - [ ] - Water flowing  
 - [ ] - Water droplets  
 - [ ] - Player character breathing
