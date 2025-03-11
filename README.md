@@ -3,7 +3,7 @@
 - [x] - Exiting menu  
 - [x] - Opening menu  
 - [x] - Invalid action  
-- [ ] - Saving / Loading game  
+- [x] - Saving / Loading game  
 - [ ] - Feedback for taking photo of a creature  
 - [ ] - Feedback for taking photo of environment only  
 ### World Sound Effects
