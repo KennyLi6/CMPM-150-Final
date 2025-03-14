@@ -10,7 +10,7 @@
 - [ ] - Opening map  
 - [ ] - Pulling out camera  
 - [x] - Camera shutter  
-- [ ] - Drawing in notebook  
+- [x] - Drawing in notebook  
 - [ ] - Character footsteps  
 - [ ] - Creature breathing  
 - [ ] - Creature footsteps (wet and slimy)  

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e598fee9-00b5-4b20-8cc8-4c8ffafaf88e}">
+		<property name="note">
+			<value>Boots_On_Hollow_Metal_Deep_14 by BlondPanda -- https://freesound.org/s/778412/ -- License: Creative Commons 0</value>
+		</property>
 		<property name="assetPath">
 			<value>SFX/778412__blondpanda__boots_on_hollow_metal_deep_14.wav</value>
 		</property>
