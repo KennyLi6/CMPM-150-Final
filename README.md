@@ -7,7 +7,7 @@
 - [ ] - Feedback for taking photo of a creature  
 - [ ] - Feedback for taking photo of environment only  
 ### World Sound Effects
-- [ ] - Opening map  
+- [x] - Opening map  
 - [ ] - Pulling out camera  
 - [x] - Camera shutter  
 - [x] - Drawing in notebook  
@@ -25,6 +25,6 @@
 - [ ] - Water droplets  
 - [ ] - Player character breathing
 ### Music
-- [ ] - Exploration
+- [x] - Exploration
 - [ ] - Chase
 - [ ] - Final Tank Area
