@@ -19,7 +19,7 @@
 - [x] - Creature footsteps (wet and slimy)
 - [x] - Doors shutting
 - [x] - Doors unlocking
-- [ ] - Steam coming out of vents or pipes
+- [x] - Steam coming out of vents or pipes
 - [ ] - Creature starts chase
 - [ ] - Taking damage (game over)
 
