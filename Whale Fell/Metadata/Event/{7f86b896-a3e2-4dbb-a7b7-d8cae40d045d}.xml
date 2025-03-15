@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7f86b896-a3e2-4dbb-a7b7-d8cae40d045d}">
 		<property name="name">
 			<value>Door Unlocking</value>

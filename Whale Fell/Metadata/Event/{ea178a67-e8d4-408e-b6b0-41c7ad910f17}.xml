@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ea178a67-e8d4-408e-b6b0-41c7ad910f17}">
 		<property name="name">
 			<value>Metal Creaking</value>

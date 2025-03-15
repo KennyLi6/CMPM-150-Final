@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8801ee10-62ec-44d9-9d59-df4b7cc1711d}">
 		<property name="name">
 			<value>Draw in Notebook</value>

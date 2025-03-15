@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d1129493-a5b1-49ea-a90d-85c6d326ed89}">
+		<property name="note">
+			<value>GENDRON_clement_2015_2016_DeepWater.aiff by iut_Paris8 -- https://freesound.org/s/345346/ -- License: Creative Commons 0</value>
+		</property>
+		<property name="assetPath" />
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.29485260770975</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13522608-d3bf-453f-81ae-0505278a6f1f}</destination>
+		</relationship>
+	</object>
+</objects>

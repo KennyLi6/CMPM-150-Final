@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{807d8aa3-98fc-43b4-b2dc-5bcea2e073ac}">
 		<property name="name">
 			<value>Pull out Camera</value>

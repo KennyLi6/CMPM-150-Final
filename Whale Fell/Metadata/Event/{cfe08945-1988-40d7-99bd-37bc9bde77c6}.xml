@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{cfe08945-1988-40d7-99bd-37bc9bde77c6}">
 		<property name="name">
 			<value>Photo Environment</value>
