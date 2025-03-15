@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4c9511b1-d8c8-4c72-ac96-9041e13fd417}">
+		<property name="note">
+			<value>Metal_push door open3.wav by pagancow -- https://freesound.org/s/15316/ -- License: Creative Commons 0</value>
+		</property>
+		<property name="assetPath">
+			<value>SFX/15316__pagancow__metal_push-door-open3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>7.8328958333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13522608-d3bf-453f-81ae-0505278a6f1f}</destination>
+		</relationship>
+	</object>
+</objects>

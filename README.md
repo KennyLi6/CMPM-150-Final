@@ -14,8 +14,8 @@
 - [ ] - Character footsteps  
 - [ ] - Creature breathing  
 - [ ] - Creature footsteps (wet and slimy)  
-- [ ] - Doors shutting  
-- [ ] - Doors unlocking  
+- [x] - Doors shutting  
+- [x] - Doors unlocking  
 - [ ] - Steam coming out of vents or pipes  
 - [ ] - Creature starts chase  
 - [ ] - Taking damage (game over)  
