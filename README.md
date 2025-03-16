@@ -33,5 +33,5 @@
 ### Music
 
 - [x] - Exploration
-- [ ] - Chase
-- [ ] - Final Tank Area
+- [x] - Chase
+- [x] - Final Tank Area
