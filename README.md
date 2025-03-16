@@ -11,24 +11,24 @@
 ### World Sound Effects
 
 - [x] - Opening map
-- [ ] - Pulling out camera
+- [x] - Pulling out camera
 - [x] - Camera shutter
 - [x] - Drawing in notebook
-- [ ] - Character footsteps
-- [ ] - Creature breathing
+- [x] - Character footsteps
+- [x] - Creature breathing
 - [x] - Creature footsteps (wet and slimy)
 - [x] - Doors shutting
 - [x] - Doors unlocking
 - [x] - Steam coming out of vents or pipes
-- [ ] - Creature starts chase
-- [ ] - Taking damage (game over)
+- [x] - Creature starts chase
+- [x] - Taking damage (game over)
 
 ### Background Sounds
 
 - [x] - Metal creaking
 - [x] - Water flowing
 - [x] - Water droplets
-- [ ] - Player character breathing
+- [x] - Player character breathing
 
 ### Music
 
