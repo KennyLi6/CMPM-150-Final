@@ -89,6 +89,9 @@
 		<property name="length">
 			<value>59.167346938775509</value>
 		</property>
+		<property name="pitch">
+			<value>-0.699999988</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -97,6 +100,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{864dc896-d18c-4664-be22-398ba96e12f1}">
+		<property name="volume">
+			<value>-1</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
